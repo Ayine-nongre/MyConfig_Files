@@ -1,0 +1,11 @@
+set mouse=a
+set number
+set hidden
+set expandtab
+set autoindent
+set smartindent
+set shiftwidth=4
+set tabstop=4
+set encoding=utf8
+set history=5000
+set clipboard+=unnamedplus
